@@ -1,0 +1,48 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".github/workflows/pack.yaml"
+hash = "453264d0a59c5b78bfd34f42b811203c9e3b3ab256cf61b5565276b475e8da5b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "38399987f28bebd7e83d18a272bf69bf569fcb1752731300819c6bc7fc0920fc"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "51341c76ad9e7b50d95f6ee5220d1f4f07b9c972ab32f3732f0bdc75d0779748"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "30ecea6d0b51d8c99a5d6511237cebabe394bc35209496cfbf94f4c0d46f2fea"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "efec51ff0e6574da355c2867f9977ee563ffc5c160f5cd209afeaba98c7bd567"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "cf3bf29c119957fb8e29e3ece19e952a20e5deddedecb76dcd73cad9e85a0b93"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
+metafile = true

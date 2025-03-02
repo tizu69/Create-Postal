@@ -1,0 +1,13 @@
+name = "Create Postal"
+author = "tizu, ChocoNeosome"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "af69c351b1201b23811680f7ac70671995a04933c26a6b594ceb5b047c83041c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.128"
