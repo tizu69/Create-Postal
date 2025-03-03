@@ -162,6 +162,11 @@ hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "dd105e501832dcd4e443015af266973c58586553331512a6c171d865dd36c3bc"
+metafile = true
+
+[[files]]
 file = "mods/quark-oddities.pw.toml"
 hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
 metafile = true
@@ -203,12 +208,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8c345dee68c04839ed832b0f9428df7701d214bd729c453017fa601bd051f84f"
+hash = "39a39798fc0c36fb6c5e75c96e00c119ea6da9123a01dad1c23962af2e1b1ef1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8d43bc249fa19f6f8952d530c990377669e00559063a96da67a456d5f3d4f79e"
+hash = "fe705dd4cf7b6ea55c4e4defdc689a9079cd3a70f6f03352feee69e4a9ccb0d1"
 metafile = true
 
 [[files]]
