@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/pack.yaml"
-hash = "453264d0a59c5b78bfd34f42b811203c9e3b3ab256cf61b5565276b475e8da5b"
+hash = "def986efeaba16c70d7ffed70328581ddd08dd9604a0624cd87523761a1bc157"
+
+[[files]]
+file = "LICENSE"
+hash = "3f9286ce32e665a71f5290bd4bca883ee1dc9fa32b2c4b58f6bb84667de75eda"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -33,16 +37,21 @@ file = "kubejs/startup_scripts/main.js"
 hash = "cf3bf29c119957fb8e29e3ece19e952a20e5deddedecb76dcd73cad9e85a0b93"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "d087c8e1cff4dc7f763401dd06eb0c1141ed12fa990a9e39ec7f034e967b87d2"
+hash = "75a75968992dd53ea69b9f99be9ac5415ddfce7ce286face8a323969e310939e"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
