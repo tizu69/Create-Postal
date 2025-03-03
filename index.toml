@@ -21,12 +21,12 @@ file = "kubejs/client_scripts/main.js"
 hash = "38399987f28bebd7e83d18a272bf69bf569fcb1752731300819c6bc7fc0920fc"
 
 [[files]]
-file = "kubejs/config/client.json"
-hash = "51341c76ad9e7b50d95f6ee5220d1f4f07b9c972ab32f3732f0bdc75d0779748"
+file = "kubejs/config/client.properties"
+hash = "350d772fac83f08d0c94513afba033d9028b7f05ce60e33e2bd6ea408c83c426"
 
 [[files]]
-file = "kubejs/config/common.json"
-hash = "30ecea6d0b51d8c99a5d6511237cebabe394bc35209496cfbf94f4c0d46f2fea"
+file = "kubejs/config/common.properties"
+hash = "a3d9d3a6349d38b23bff982709e01a6b981b3ac4610d3ce6ea3ba6be45187845"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
@@ -42,8 +42,48 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/atmospheric.pw.toml"
+hash = "1e3f68331a7cae5192b1e1a62c652b0ec9bd6588249d0eb2da2966e410fc06fc"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "7daa4d1468482e3154eda04de04ba6a69e0de47f500d76bb3388fa35d26abc41"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "75a75968992dd53ea69b9f99be9ac5415ddfce7ce286face8a323969e310939e"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d36d70b9f8c9fee99753d7f9ef79a715b57880940e89a81fef119910cb7d123c"
+metafile = true
+
+[[files]]
+file = "mods/endergetic.pw.toml"
+hash = "d6d6f896494ce5a9c02fb11f8c929124d19308652f602bf530164cf5d204e6de"
+metafile = true
+
+[[files]]
+file = "mods/environmental.pw.toml"
+hash = "d9b5c288714d78e2be14e369428a47976b01cc0e716c3b5922aec276134fee5c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ce3945c1b4a49b32fa17e91396a019e00efd773e7ae76df7c078397f9ac74fc3"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
 metafile = true
 
 [[files]]
@@ -52,6 +92,66 @@ hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-brewery.pw.toml"
+hash = "6432819826de08392ee4fb077aceb79c62a909b9d1dab33e55fa9aa682e9ecd9"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "13a3bbcaee8af268eb4727fa0874fcfe95b06e2b3918d51a6ad3ea114854839b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "90eed756c880c45a2452b8721cade48c1a33a684596c06f88ad1f8536fe0b2a7"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "502589e30f5f931419a81caddf421a9b64e482c54d3d1ab27ba0f830287a2d32"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c17b9de2050b52f12368cea16836e8c6ac43be9683b2fc4755a9b3d4a60fa67b"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "cccf29ce906a920013a8f10ece935b3e9c970dca19943d7237557b178d01f149"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "f4d5af0d5ea461934bbcbc2d1657306803db3986105d2029173e4f096e1281c4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8c345dee68c04839ed832b0f9428df7701d214bd729c453017fa601bd051f84f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8d43bc249fa19f6f8952d530c990377669e00559063a96da67a456d5f3d4f79e"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
 metafile = true
