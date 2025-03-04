@@ -123,6 +123,11 @@ hash = "7daa4d1468482e3154eda04de04ba6a69e0de47f500d76bb3388fa35d26abc41"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
@@ -170,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "ba6c13e70f06dde3b8d01d4143c22fea36ec035d7cd8834c7a82aa778a809467"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "a2c33376068c7b4e18966fe832c981c1376a443203ee621a3c52d25046df40f8"
 metafile = true
 
 [[files]]
