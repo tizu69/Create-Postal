@@ -9,16 +9,72 @@ file = "LICENSE"
 hash = "3f9286ce32e665a71f5290bd4bca883ee1dc9fa32b2c4b58f6bb84667de75eda"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "kubejs/assets/create/models/block/track/bogey/bogey_drive_piston.obj"
+hash = "b807ce53713bc7d6efd1829bbb54efc6a95d8587a1a60268345cd98e58e348f5"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/create/models/block/track/bogey/bogey_drive_wheel_pin.obj"
+hash = "b807ce53713bc7d6efd1829bbb54efc6a95d8587a1a60268345cd98e58e348f5"
 
 [[files]]
-file = "kubejs/client_scripts/main.js"
-hash = "38399987f28bebd7e83d18a272bf69bf569fcb1752731300819c6bc7fc0920fc"
+file = "kubejs/assets/create/models/block/track/segment_left.obj"
+hash = "bd1f2ef1216850ce8281bdb2a6d3f6ee95ad2019f555cff280424d2e9397aed3"
+
+[[files]]
+file = "kubejs/assets/create/models/block/track/segment_right.obj"
+hash = "bd1f2ef1216850ce8281bdb2a6d3f6ee95ad2019f555cff280424d2e9397aed3"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/bogey/wheel.png"
+hash = "2cbdcf2ffddd77ba6271b24295ca5a7974fc74908a128dba532cfb4f8315141f"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/portal_track.png"
+hash = "d1d1ca124d582198680cd3372e08f7a7f638eb5fc2ff47e985edbe743bd1a40f"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/portal_track_mip.png"
+hash = "c92696a604367d435dd27fbec13acf9eb67bbbfc7a4a546224e2120541c5e03f"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/road_pavement.png"
+hash = "9e5eb364e5e3739b63dbbe82cea955f61e4d24e03b155b872fd2c16765254787"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/standard_track.png"
+hash = "0e194d1f3f5ec454df89b40a6466cbf91a85bce9bd4476032abdae798bb7df9e"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/standard_track_crossing.png"
+hash = "211693a222dbefb0a82454bfce8d7c420e8aeaafdcee546f80ef2479ba8c97a4"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/standard_track_mip.png"
+hash = "f03da194972c2e414dcd155a824fc42fdd5041f220338c6d3e4daae3896a04f0"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/track_assembly_overlay.png"
+hash = "4977e94e963f0534c99c971b77f74ed07023ecda62f107fc807228e423d3ed94"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/track_signal_dual_indicator.png"
+hash = "089e31b51ebec9d651170d6cf6ce24e97fc2ec4e6f3259cc049304fb7e4866b2"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/track_signal_indicator.png"
+hash = "35c48d7abee194034beea983a8a904fb378f02de6822a1d71c7bd9961d2b9dd0"
+
+[[files]]
+file = "kubejs/assets/create/textures/block/track_station_indicator.png"
+hash = "5fa4861b9ee6d5a18694dd9366b30c12f99b34522e2c351111e5be25c85fd5e8"
+
+[[files]]
+file = "kubejs/assets/create/textures/item/track.png"
+hash = "33a77dac462643e774699eb5e9f67064b12669716c58f17d1f6236aec7003829"
+
+[[files]]
+file = "kubejs/client_scripts/lang.js"
+hash = "46834e482021aa3950019492ad12567b575a53cc008369712440133eeb18a756"
 
 [[files]]
 file = "kubejs/config/client.properties"
